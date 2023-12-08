@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pinku Sarker</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <video width="640" height="360" controls>
-        <source src="./assets/banner.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video> </p>
+<p align="left"> <img src="./assets/banner.jpg" alt="pinku1211" /> </p>
 
 - 🔭 I’m currently working **on a program in a learning platform**
 
