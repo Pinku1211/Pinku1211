@@ -1,5 +1,5 @@
 
-<p align="left"> <img width="900" src="./assets/banner.png" alt="pinku1211" /> </p>
+<p align="left"> <img width="900" src="./banner.png" alt="pinku1211" /> </p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Pinku1211&theme=shadow-green" alt="GitHub Streak" /></p>
 
