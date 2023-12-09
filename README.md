@@ -1,5 +1,8 @@
 
-<p align="left"> <img width="900" src="./banner.png" alt="pinku1211" /> </p>
+<p align="left"> <img src="./banner.png" alt="pinku1211" /> </p>
+
+<h3 align="left">Aout me:</h3>
+<p align="left">I am a junior web developer with a strong foundation in HTML, CSS, and JavaScript, built some projects with React, MongoDb. Passionate about transforming design concepts into functional websites, I thrive in collaborative environments. With a keen eye for detail and a commitment to staying updated on industry trends, I am eager to contribute my problem-solving skills to create dynamic and visually appealing web solutions.</p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Pinku1211&theme=shadow-green" alt="GitHub Streak" /></p>
 
@@ -23,7 +26,7 @@
 <p>2. https://github.com/Pinku1211/job-hunt-client, https://github.com/Pinku1211/job-hunt-server</p>
 <p>3. https://github.com/Pinku1211/cargo-client, https://github.com/Pinku1211/cargo-server</p>
 
-<h3 align="left">Aout me:</h3>
+<h3 align="left">Some facts:</h3>
 - 🔭 I’m currently working **on a program in a learning platform**
 
 - 🌱 I’m currently learning **Next.js**
