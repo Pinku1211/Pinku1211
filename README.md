@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pinku Sarker</h1>
-<h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img width="900" src="./assets/banner.jpg" alt="pinku1211" /> </p>
 
